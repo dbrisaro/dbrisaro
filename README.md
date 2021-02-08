@@ -11,7 +11,7 @@
 
 **Sobre mí**
 
-Mi nombre es Daniela Risaro, soy Licenciada en Oceanografía 🌊. Estudié en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires y me recibí en el 2015. El mar me dió tanta curiosidad que estoy a pasitos de terminar mi doctorado, que también realicé en la UBA. Desde el año pasado que estudio Ciencias de la Computación, y estoy especializándome en el apasionante mundo de la Ciencia de Datos. Programar me parece increible y me divierte un montón!
+Mi nombre es Daniela Risaro, soy Licenciada y Doctora en Oceanografía 🌊. Estudié en la Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires, me licencié en 2015 y me doctoré en 2020. Desde el año pasado que estudio a cuentagotas Ciencias de la Computación, con el objetivo de especializarme en el apasionante mundo de la Ciencia de Datos. Programar me parece increible y me divierte un montón!
 
 - ✍️ Escribo todas las semanas en mi cuenta de Twitter ([@dbrisaro](https://twitter.com/dbrisaro)) sobre temas relacionados a la oceanografía con el hashtag #LunesDeOceanografia
 - 📝 Además, escribo todos los domingos en mi cuenta de Medium: https://medium.com/@dbrisaro
@@ -23,8 +23,6 @@ Mi nombre es Daniela Risaro, soy Licenciada en Oceanografía 🌊. Estudié en l
 
 [ccm]: https://instagram.com/ccm_mdp
 [SIGLA]: https://siglatino.netlify.app
-
-
 
 
 <!--
