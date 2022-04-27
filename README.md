@@ -14,13 +14,13 @@ Mi nombre es Daniela Risaro, soy Licenciada (UBA), Doctora en Oceanografía (UBA
 - ✍️ Escribo todas las semanas en mi cuenta de Twitter ([@dbrisaro](https://twitter.com/dbrisaro)) sobre temas relacionados a la oceanografía con el hashtag #LunesDeOceanografia
 - 📝 Además, escribo todos los domingos en mi cuenta de Medium: https://medium.com/@dbrisaro
 <!--- 🏖️ Integro un grupo de Ciencia Ciudadana basado en Mar del Plata para integrar a la comunidad en una red monitoreo de variables ambientales relacionadas con el oleaje y el impacto que tiene en la erosión (+ info [acá][ccm])-->
-- ♻️ Integro una consultoría de Servicios de Información Geográfica donde brindamos soluciones y asesoramiento a los desafíos ambientales, llamada [SIGLA].
+<!---- ♻️ Integro una consultoría de Servicios de Información Geográfica donde brindamos soluciones y asesoramiento a los desafíos ambientales, llamada [SIGLA]. -->
 <!--- 🌱 Hace poco descubrí el mundo de desarrollo front y estoy aprendiendo de forma autodidacta, aún soy una baby frontender 👶-->
 - 👯 Busco nuevos horizontes laborales como científica de datos
 - 💬 Contactame si te interesa o te de curiosidad algo de mi perfil, me encanta ampliar mi red de amigxs!
 
-[ccm]: https://instagram.com/ccm_mdp
-[SIGLA]: https://siglatino.org
+<!---[ccm]: https://instagram.com/ccm_mdp-->
+<!---[SIGLA]: https://siglatino.org-->
 
 
 <!--
